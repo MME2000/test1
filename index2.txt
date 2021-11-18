@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hi
-=======
-in the name of god
->>>>>>> test
+a
