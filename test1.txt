@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hi my name is mahdi
-=======
-my name is mahdi
->>>>>>> test
